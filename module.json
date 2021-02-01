@@ -1,0 +1,32 @@
+{
+    "name": "IsometricWorldsJuice",
+    "title": "IsometricWorldsJuice",
+    "description": "The Complete Isometric Worlds packaged as a FoundryVTT Module, with Grape_Juice Isometric module VIEWER embedded",
+    "version": "0.0.3",
+    "author": [
+        "Grape_Juice",
+        "Isometric Worlds"
+    ],
+    "packs": [
+        {
+            "name": "maps",
+            "label": "IsometricWorldsJuice Isometric Maps",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "tokens",
+            "label": "IsometricWorldsJuice Isometric Tokens",
+            "path": "/packs/tokens.db",
+            "entity": "Actor"
+        }
+    ],
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://www.patreon.com/isometricworlds",
+    "bugs": "https://gitlab.com/jesusafier/grape_juice-isometrics/",
+    "scripts": [
+        "./scripts/main.js"
+    ],
+    "iso_module_version": "0.0.15"
+}
