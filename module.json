@@ -29,6 +29,6 @@
         "./scripts/main.js"
     ],
     "iso_module_version": "0.0.15"
-    "manifest": "https://raw.githubusercontent.com/wushung103/Isometric/main/module.json?token=AE4WLWYYIYNGVFZ4V3LSWRTACESDS",
+    "manifest": "https://raw.githubusercontent.com/wushung103/IsometricWorldsJuice/main/module.json",
     "download": "https://github.com/wushung103/Isometric/archive/main.zip"
 }
