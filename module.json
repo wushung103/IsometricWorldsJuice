@@ -28,5 +28,8 @@
     "scripts": [
         "./scripts/main.js"
     ],
-    "iso_module_version": "0.0.15"
+    "iso_module_version": "0.0.15",
+    "url": "https://github.com/wushung103/DnD5e-zh-TW",
+  "manifest": "https://raw.githubusercontent.com/wushung103/DnD5e-zh-TW/main/module.json",
+  "download": "https://github.com/wushung103/DnD5e-zh-TW/archive/main.zip"
 }
