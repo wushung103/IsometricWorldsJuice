@@ -3,8 +3,6 @@
     "title": "IsometricWorldsJuice",
     "description": "The Complete Isometric Worlds packaged as a FoundryVTT Module, with Grape_Juice Isometric module VIEWER embedded",
     "version": "0.0.3",
-    "manifest": "https://raw.githubusercontent.com/wushung103/IsometricWorldsJuice/main/module.json",
-    "download": "https://github.com/wushung103/IsometricWorldsJuice/archive/main.zip"
     "author": [
         "Grape_Juice",
         "Isometric Worlds"
